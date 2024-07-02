@@ -2,7 +2,7 @@
 <img src="https://github.com/snehashisroyofficial/snehashisroyofficial/blob/main/20945431.jpg" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Hi, I'm Snehashis Roy, a Front-End Developer | Crafting Dynamic User Experiences with React & Next.js</div>
+### <div align="center">Hi, I'm Snehashis Roy, a Front-End Developer | Crafting Dynamic User Experiences with React</div>
 
 - 🔭 I’m currently working for my self [Snehashisroy](https://github.com/snehashisroyofficial)
 
