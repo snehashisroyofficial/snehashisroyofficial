@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/snehashisroyofficial/snehashisroyofficial/blob/main/20945431.jpg" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi, I'm Snehashis Roy, a Front-End Developer | Crafting Dynamic User Experiences with React & Next.js</div>
 
@@ -56,9 +55,3 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
