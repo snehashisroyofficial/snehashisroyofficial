@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi, I'm Snehashis Roy, a Front-End Developer | Crafting Dynamic User Experiences with React & Next.js</div>
 
-- 🔭 I’m currently working on [Snehashisroy](https://github.com/snehashisroyofficial)
+- 🔭 I’m currently working for my self [Snehashisroy](https://github.com/snehashisroyofficial)
 
 - 🌱 I’m currently learning Next.js
 
